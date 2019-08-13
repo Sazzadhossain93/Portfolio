@@ -4,9 +4,11 @@
   "description": "Portfolio",
   "main": "index.js",
   "homepage": "https://Sazzadhossain93.github.io/Portfolio",
+  
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
+   
   },
   "repository": {
     "type": "git",
